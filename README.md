@@ -1,3 +1,7 @@
+<img src="icon.png" alt="Snow Icon" width="72"/>
+
+
+
 Snow Watchface for Pebble
 =========================
 
